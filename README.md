@@ -1,4 +1,11 @@
 # Install-WSL-2-in-Windows-11-Windows-10
+WSL 2 is eligible for Windows 11, Windows 10:
+
+* For x64 systems: Version 1903 or higher, with Build 18362 or higher
+* For ARM64 systems: Version 2004 or higher, with Build 19041 or higher
+
+-->To check your version and build number, select Windows logo key + R, type winver, select OK
+
 
 Installation: 
 
@@ -25,3 +32,5 @@ Installation:
      For example, in case of Ubuntu-20.04, enter wsl --set-version Ubuntu-20.04 2 
 
    > wsl --set-default-version 2
+   
+Reference: https://docs.microsoft.com/en-us/windows/wsl/install-win10
