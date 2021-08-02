@@ -27,7 +27,7 @@ Installation:
    
    > wsl --list --verbose
    
-   > wsl --set-version <distribution name> <versionNumber>
+   > wsl --set-version distributionNameHere versionNumberHere
    
      For example, in case of Ubuntu-20.04, enter [wsl --set-version Ubuntu-20.04 2] 
 
