@@ -29,7 +29,7 @@ Installation:
    
    > wsl --set-version <distribution name> <versionNumber>
    
-     For example, in case of Ubuntu-20.04, enter wsl --set-version Ubuntu-20.04 2 
+     For example, in case of Ubuntu-20.04, enter > wsl --set-version Ubuntu-20.04 2 
 
    > wsl --set-default-version 2
    
