@@ -17,11 +17,11 @@ Installation:
    
    > dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 
-4. Microsoft Store: Install your Linux distribution of choice. Launch it to create user.
-
 3. Download the Linux kernel update package:
-
+   
    https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
+   
+4. Microsoft Store: Install your Linux distribution of choice. Launch it to create user.
 
 5. Set your distribution version to WSL 1 or WSL 2:
    
