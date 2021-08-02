@@ -11,11 +11,11 @@ Installation:
 
 1. Enable the Windows Subsystem for Linux:
 
-   dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+   > dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 
 2. Enable Virtual Machine feature:
    
-   dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+   > dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 
 4. Microsoft Store: Install your Linux distribution of choice. Launch it to create user.
 
